@@ -1,15 +1,14 @@
 ---
-name: Template for comments and observations
-about: Use this template to provide comments and observations to the IACS Technical Guidance document.
-title: "MS/org - brief description of comment/observation"
+name: Template for change proposals
+about: Use this template to provide change proposals to the geoIACS Technical Guidance document.
+title: "MS/org - brief description of change proposal"
 
 ---
 
-<!-- Please fill out this issue according to the proposed template. 
-The commented text under each section will not be visible in the issue, so you can leave it or delete it.-->
+<!-- Please fill out this issue according to the proposed template. The commented text under each section will not be visible in the issue, so you can leave it or delete it.-->
 
-# Template for comments and observations
-<!-- Provide a brief description of the comment/observation. -->
+# Template for change proposals
+<!-- Provide a brief description of the change proposal. -->
 
 ## MS/org
 <!-- MS = Member state / org = organisation -->
