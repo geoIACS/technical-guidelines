@@ -4,6 +4,6 @@ The purpose of this repository is to host the [Technical Guidelines on IACS Data
 
 To participate in the discussions, go to the [dedicated section](https://github.com/orgs/geoIACS/discussions).
 
-The [issue tracker](https://github.com/geoIACS/technical-guidelines/issues) of this repository can be used to submit comments/observations to the TGs, and to ask any questions relating to the use of the TGs.
+The [issue tracker](https://github.com/geoIACS/technical-guidelines/issues) of this repository is used to submit change porposals to the TG.
 
-The IACS TGs describe detailed implementation aspects and relations with existing standards, technologies, and practices.
+The geoIACS TG describes detailed implementation aspects and relations with existing standards, technologies and practices.
